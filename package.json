@@ -1,0 +1,28 @@
+{
+  "name": "storycast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "sass": "sass --watch sass/main.scss css/main.css --style=expanded",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cashme8/storycast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cashme8/storycast/issues"
+  },
+  "homepage": "https://github.com/cashme8/storycast#readme",
+  "devDependencies": {
+    "sass": "^1.105.2"
+  }
+}
