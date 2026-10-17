@@ -1,3 +1,7 @@
+@use "colors" as *;
+@use "typography" as *;
+@use "spacing" as *;
+
 @layer reset, base, layout, components, utilities;
 
 @layer reset {

@@ -1,3 +1,7 @@
+@use "colors" as *;
+@use "typography" as *;
+@use "spacing" as *;
+
 @layer utilities {
   :focus-visible {
     outline: 3px solid $color-accent;

@@ -1,3 +1,7 @@
+@use "colors" as *;
+@use "typography" as *;
+@use "spacing" as *;
+
 @layer layout {
   .container {
     width: min(100% - 2rem, $container-width);
