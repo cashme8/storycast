@@ -36,7 +36,7 @@ StoryCast is designed for people who enjoy personal stories, interviews, documen
 
 Add the link to your low-fidelity wireframes here:
 
-**Wireframe link:** [Insert your Figma wireframe URL]
+**Wireframe link:** [figma.com/board/sjrwKuaKhA427IzGyyOHfx/low-fidelity-wireframe?t=Wy07pMxBe6Hi1cWc-0]
 
 The wireframes should show the header, hero section, featured stories, accessibility information, and footer. Include mobile and desktop layouts.
 
@@ -44,7 +44,7 @@ The wireframes should show the header, hero section, featured stories, accessibi
 
 Add the link to your finished Figma designs here:
 
-**High-fidelity mockup link:** [Insert your Figma design URL]
+**High-fidelity mockup link:** [https://www.figma.com/design/CYg5NKzWqt3rG2zjht7T7w/high-fidelity-mockup?node-id=0-1&p=f&t=9t2C9wpMDdmzgBGv-0]
 
 The final designs should reflect the dark charcoal interface, vivid orange accents, consistent typography, story imagery, responsive cards, and accessible navigation.
 
