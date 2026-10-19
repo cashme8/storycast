@@ -121,7 +121,7 @@
     z-index: -1;
     inset: 0;
     content: "";
-    background: linear-gradient(90deg, #111318 0%, rgba(17, 19, 24, 0.92) 28%, rgba(17, 19, 24, 0.4) 70%, rgba(17, 19, 24, 0.1) 100%), url("https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1800&q=85") center 48%/cover;
+    background: linear-gradient(90deg, #111318 0%, rgba(17, 19, 24, 0.92) 28%, rgba(17, 19, 24, 0.4) 70%, rgba(17, 19, 24, 0.1) 100%), url("http://blog.f1livepulse.com/_image?href=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Ff1-live-pulse-27147.firebasestorage.app%2Fo%2Fblog-images%252F1791902964262-Formula-1-Kigali-Rwanda-Africa.png%3Falt%3Dmedia%26token%3D8e23a060-f82d-42b6-9877-121c0f0638aa&w=1280&f=webp&q=75") center 48%/cover;
   }
   .hero__content {
     max-width: 650px;

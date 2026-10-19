@@ -1,6 +1,7 @@
-@use "colors" as *;
-@use "typography" as *;
-@use "spacing" as *;
+@use "layers";
+@use "colors";
+@use "typography";
+@use "spacing";
 
 @use "base";
 @use "layout";
